@@ -107,12 +107,12 @@ const fnSetClear = () => {
 
 
 
-/*
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);
 });
-*/
 
+/*
 module.exports = (req, res) => {
   app(req, res);  // ให้ express handle request และ response
 };
+*/
